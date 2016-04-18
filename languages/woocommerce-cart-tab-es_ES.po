@@ -1,0 +1,84 @@
+# This file is distributed under the same license as the WooCommerce Cart Tab package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-18 13:44-0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Project-Id-Version: WooCommerce Cart Tab\n"
+"POT-Creation-Date: 2016-04-18 13:37-0300\n"
+"Last-Translator: Mauricio López (damonh)\n"
+"Language-Team: ProNet http://www.pronet.com.uy\n"
+"Language: es_ES\n"
+
+#: cart-tab.php:43
+msgid "Cart Tab"
+msgstr "Pestaña del Carrito de Compras"
+
+#: cart-tab.php:48
+msgid "Cart Widget"
+msgstr "Widget del Carrito"
+
+#: cart-tab.php:49
+msgid "Display the cart widget on hover"
+msgstr "Mostrar el widget del carrito al pasar el ratón por encima"
+
+#: cart-tab.php:54
+msgid "Use the light or dark skin"
+msgstr "Usar el tema claro u oscuro"
+
+#: cart-tab.php:58
+msgid "Light"
+msgstr "Claro"
+
+#: cart-tab.php:59
+msgid "Dark"
+msgstr "Oscuro"
+
+#: cart-tab.php:63
+msgid "Position the cart tab on the right or left"
+msgstr "Posicionar la pestaña a la derecha o a la izquierda"
+
+#: cart-tab.php:67
+msgid "Right"
+msgstr "Derecha"
+
+#: cart-tab.php:68
+msgid "Left"
+msgstr "Izquierda"
+
+#: cart-tab.php:157
+msgid "View your shopping cart"
+msgstr "Ver su carrito de compras"
+
+#: cart-tab.php:160
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d artículo"
+msgstr[1] "%d artículos"
+
+#: cart-tab.php:0
+msgid "WooCommerce Cart Tab"
+msgstr "Pestaña del Carrito de Compras de WooCommerce"
+
+#: cart-tab.php:0
+msgid "http://jameskoster.co.uk/tag/cart-tab/"
+msgstr "http://jameskoster.co.uk/tag/cart-tab/"
+
+#: cart-tab.php:0
+msgid "Displays a sitewide link to the cart which reveals the cart contents on hover."
+msgstr "Mostrar en todo el sitio un vínculo al carrito de compras en el cual se muestre su contenido al pasar el ratón por encima."
+
+#: cart-tab.php:0
+msgid "jameskoster"
+msgstr "jameskoster"
+
+#: cart-tab.php:0
+msgid "http://jameskoster.co.uk"
+msgstr "http://jameskoster.co.uk"
+
+#: cart-tab.php:0
+msgid "0.1.1"
+msgstr "0.1.1"
